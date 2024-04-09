@@ -22,14 +22,6 @@ Technologies Used:
 4. Connect a physical device or start an emulator.
 5. Run the app using `flutter run`.
 
-Screenshots:
-
-[Include screenshots of the Clima app here, showcasing its user interface and features.]
-
-Contributions:
-
-Contributions to enhance Clima are welcome! If you have ideas for new features, UI improvements, or bug fixes, feel free to fork the repository and submit a pull request.
-
 Acknowledgements:
 
 - This project is inspired by weather app designs and focuses on asynchronous programming concepts in Flutter.
